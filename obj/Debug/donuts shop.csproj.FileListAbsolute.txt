@@ -1,0 +1,14 @@
+E:\source\donuts shop\bin\Debug\donuts shop.exe.config
+E:\source\donuts shop\bin\Debug\donuts shop.exe
+E:\source\donuts shop\bin\Debug\donuts shop.pdb
+E:\source\donuts shop\obj\Debug\donuts shop.csproj.AssemblyReference.cache
+E:\source\donuts shop\obj\Debug\donuts_shop.donuts.resources
+E:\source\donuts shop\obj\Debug\donuts_shop.login.resources
+E:\source\donuts shop\obj\Debug\donuts_shop.orderamount.resources
+E:\source\donuts shop\obj\Debug\donuts_shop.placeorder.resources
+E:\source\donuts shop\obj\Debug\donuts_shop.Properties.Resources.resources
+E:\source\donuts shop\obj\Debug\donuts_shop.shareboxes.resources
+E:\source\donuts shop\obj\Debug\donuts shop.csproj.GenerateResource.cache
+E:\source\donuts shop\obj\Debug\donuts shop.csproj.CoreCompileInputs.cache
+E:\source\donuts shop\obj\Debug\donuts shop.exe
+E:\source\donuts shop\obj\Debug\donuts shop.pdb
